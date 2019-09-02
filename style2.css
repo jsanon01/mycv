@@ -22,6 +22,12 @@ div
 	color: #ffffff;
 }
 
+.project-pics {
+  width: 100px;
+  height: 80px;
+  border-radius: 50%;
+}
+
 #email{
     float:right;
     margin-right: 20px;
